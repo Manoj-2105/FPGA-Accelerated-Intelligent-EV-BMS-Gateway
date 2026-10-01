@@ -2,7 +2,7 @@
 
 > A real-time, FPGA-accelerated Battery Management System for a 3S Li-ion pack, built on the **Microchip PolarFire SoC Icicle Kit** (RISC-V + FPGA fabric).
 
-![System Architecture](docs/architecture.png)
+
 
 ---
 
@@ -198,14 +198,7 @@ Live view of:
 
 ---
 
-## 👥 Team
 
-| Name | Role |
-|---|---|
-| _Your Name_ | _Role_ |
-| _Teammate_ | _Role_ |
-
-**Hackathon:** _Event name_ · **Year:** 2026
 
 ---
 
